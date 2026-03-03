@@ -1,0 +1,2 @@
+Hello,this is first file.
+Learning python is fun!
