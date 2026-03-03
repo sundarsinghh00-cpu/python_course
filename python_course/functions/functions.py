@@ -4,7 +4,7 @@ def greet(name):
 def add(a, b):
     return a + b
 
-greet("vanshi")
+greet("vnsi")
 result = add(5, 10)
 print("Sum:", result)
 

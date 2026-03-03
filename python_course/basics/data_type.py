@@ -1,6 +1,6 @@
 age=23
 height=5.5
-name="vanshi"
+name="shi"
 is_student=True
 print(age)
 print(height)
