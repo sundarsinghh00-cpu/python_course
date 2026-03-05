@@ -1,4 +1,4 @@
-student={"name": "vanshi","age":23,"course":"python"}
+student={"name": "vshi","age":23,"course":"python"}
 print("full dictionary:",student)
 
 print("name:",student["name"])
